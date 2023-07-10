@@ -1,0 +1,4 @@
+package=org.glfw
+headers=GLFW/glfw3.h
+compilerOpts=-DGLFW_INCLUDE_NONE
+linkerOpts.mingw_x64=-lgdi32
